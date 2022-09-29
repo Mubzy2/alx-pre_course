@@ -1,2 +1,1 @@
-my first readme
-my second readme
+this is my first readme repository
